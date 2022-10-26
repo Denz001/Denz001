@@ -4,6 +4,8 @@
 My goal is to get into Data Science but I'm really interested in Game Dev.
 So, Python and C# it is 😄
 ##
+I use <a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a> for my coding journey. I also blog about <a href="codejourn.wordpress.com">my experience in FCC in wordpress.</a>
+##
 [![Denz001's github stats](https://github-readme-stats.vercel.app/api?username=Denz001&show_icons=true&theme=synthwave)](https://github.com/Denz001/github-readme-stats)
 
 
