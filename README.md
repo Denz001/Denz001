@@ -1,8 +1,7 @@
 ## Hi there 👋 Autumn here!
 
-### 🌱I’m currently learning HTML/CSS/JS
-My goal is to get into Data Science but I'm really interested in Game Dev.
-So, Python and C# it is 😄
+### 🌱I’m currently learning HTML/CSS/JS 😄
+
 ##
 I use <a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a> for my coding journey and CS50, and blog <a href="https://codejourn.wordpress.com">my experiences of learning them in wordpress.</a>
 ##
