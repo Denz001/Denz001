@@ -2,6 +2,9 @@
 
 ### 🌱I’m currently learning HTML/CSS/JS 😄
 
+The goal is to get into Data Science, create an RPG game, and join a game jam. Since I have so many interests, I can't say when.
+
+You know what they say, shoot for the :moon: so even if I miss, I can land among the :star::star:
 ##
 I use <a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a> for my coding journey and CS50, and blog <a href="https://codejourn.wordpress.com">my experiences of learning them in wordpress.</a>
 ##
