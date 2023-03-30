@@ -1,8 +1,10 @@
 ## Hi there 👋 Autumn here!
 
-### 🌱I’m currently learning HTML/CSS/JS 😄
+### 🌱I’m currently learning Python, SQL, and Unity 😄
 
-The goal is to get into Data Science, create an RPG game, and join a game jam. Since I have so many interests, I can't say when.
+The goal is to get into Data Science.
+
+I have many interests and one of them is to create a game and join a game jam. 
 
 You know what they say, shoot for the moon so even if I miss, I can land among the :star::star:
 ##
