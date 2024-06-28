@@ -1,6 +1,6 @@
 ## Hi there 👋 Autumn here!
 
-### 🌱I’m currently learning Python, SQL, and Unity 😄
+### 🌱I’m currently learning Python and next would be Unity 😄
 
 I have many interests and one of them is to create a game and join a game jam. 
 
