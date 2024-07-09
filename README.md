@@ -6,7 +6,7 @@ I have many interests and one of them is to create a game and join a game jam.
 
 You know what they say, shoot for the moon so even if I miss, I can land among the :star::star:
 ##
-I blog my experience of learning them in <a href="https://codejourn.wordpress.com">wordpress</a>
+I blog my learning journey in <a href="https://codejourn.wordpress.com">wordpress</a>
 ##
 
 <!--
