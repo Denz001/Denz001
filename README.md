@@ -1,4 +1,4 @@
-## Hi there 👋 Autumn here!
+## Hi there 👋 Aki here!
 
 ### 🌱I’m currently learning Python 😄
 
