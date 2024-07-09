@@ -6,7 +6,7 @@ I have many interests and one of them is to create a game and join a game jam.
 
 You know what they say, shoot for the moon so even if I miss, I can land among the :star::star:
 ##
-I use <a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a> for my coding journey and CS50, and blog <a href="https://codejourn.wordpress.com">my experience of learning them in wordpress.</a>
+I blog my experience of learning them in <a href="https://codejourn.wordpress.com">wordpress</a>
 ##
 
 <!--
